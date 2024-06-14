@@ -4,7 +4,7 @@ How to run the project
 
 Step 1 : Download the code by downloading the zip file or clone the repository.
 
-Step 2 : Type "npm i" in the terminal and press enter
+Step 2 : Type "npm i" in terminal and press enter
 
 Step 3 : Type "npm start" in terminal and press enter
 
